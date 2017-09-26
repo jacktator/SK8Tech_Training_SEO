@@ -7,3 +7,5 @@ Assuming `domain.com`, and assuming `https` had been enabled, we need to add the
 
 Set preferred version to 
 `https://domain.com`
+
+Submit sitemap
